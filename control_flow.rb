@@ -58,5 +58,7 @@ def calculator(operation, num1, num2)
   end
 end
 
-calculator('multply',2,3)
+calculator('test',2,3)
+
+# **************************************************************************** #
 
